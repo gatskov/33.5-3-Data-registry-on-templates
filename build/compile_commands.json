@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/VSCode/DataRgistrTemplates/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/DataRegistrTemplites.dir/includes_CXX.rsp -g -o CMakeFiles\\DataRegistrTemplites.dir\\src\\main.cpp.obj -c D:\\VSCode\\DataRgistrTemplates\\src\\main.cpp",
+  "file": "D:/VSCode/DataRgistrTemplates/src/main.cpp",
+  "output": "CMakeFiles/DataRegistrTemplites.dir/src/main.cpp.obj"
+}
+]

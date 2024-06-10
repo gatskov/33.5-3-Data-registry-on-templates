@@ -1,0 +1,3 @@
+D:/VSCode/DataRgistrTemplates/build/CMakeFiles/DataRegistrTemplites.dir
+D:/VSCode/DataRgistrTemplates/build/CMakeFiles/edit_cache.dir
+D:/VSCode/DataRgistrTemplates/build/CMakeFiles/rebuild_cache.dir
